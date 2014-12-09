@@ -1,0 +1,14 @@
+plugin.tx_simpleonetimeaccount {
+	view {
+		# cat=plugin.tx_easyvote/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:simpleonetimeaccount/Resources/Private/Templates/
+		# cat=plugin.tx_easyvote/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:simpleonetimeaccount/Resources/Private/Partials/
+		# cat=plugin.tx_easyvote/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:simpleonetimeaccount/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_easyvote//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

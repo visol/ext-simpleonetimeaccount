@@ -1,0 +1,30 @@
+<f:layout name="Default" />
+
+<f:section name="main">
+
+	<f:if condition="{hasError}">
+		<div class="alert alert-danger">
+			<f:translate key="newAccount.errorMessage" />
+		</div>
+	</f:if>
+
+	<f:form noCacheHash="true" action="create" name="frontendUser">
+		<f:for each="{fieldConfiguration}" as="field">
+			<div class="form-group {field.cssClasses}">
+				<label for="{field.fieldName}"><f:translate key="LLL:EXT:lang/locallang_general.xlf:LGL.{field.fieldName}" /></label>
+				<f:if condition="{field.mandatory}">
+					<f:then>
+						<f:form.textfield id="{field.fieldName}" class="form-control" name="frontendUser[{field.fieldName}]" value="{field.value}" required="TRUE" />
+					</f:then>
+					<f:else>
+						<f:form.textfield id="{field.fieldName}" class="form-control" name="frontendUser[{field.fieldName}]" value="{field.value}" />
+					</f:else>
+				</f:if>
+			</div>
+		</f:for>
+		<div class="form-group">
+			<f:form.submit class="form-control" value="{f:translate(key:'newAccount.submit')}" />
+		</div>
+	</f:form>
+
+</f:section>

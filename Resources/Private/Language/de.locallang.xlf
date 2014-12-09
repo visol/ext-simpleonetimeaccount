@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-09-19T13:43:14Z" product-name="easyvote">
+		<header/>
+		<body>
+
+			<trans-unit id="pluginLabel">
+				<source>One Time Account Registration &amp; Login</source>
+				<target>One Time Account Registration &amp; Login</target>
+			</trans-unit>
+			<trans-unit id="flexform.sheetTitle">
+				<source>Configuration</source>
+				<target>Konfiguration</target>
+			</trans-unit>
+			<trans-unit id="flexform.fieldList">
+				<source>User fields to display</source>
+				<target>Anzuzeigende Felder des Benutzers</target>
+			</trans-unit>
+			<trans-unit id="flexform.mandatoryFields">
+				<source>Mandatory fields</source>
+				<target>Pflichtfelder</target>
+			</trans-unit>
+			<trans-unit id="flexform.userGroups">
+				<source>User groups to assign</source>
+				<target>Zuzuweisende Benutzergruppen</target>
+			</trans-unit>
+			<trans-unit id="flexform.userFolder">
+				<source>User storage folder</source>
+				<target>Benutzer-Folder</target>
+			</trans-unit>
+			<trans-unit id="flexform.targetPage">
+				<source>Target page after registration</source>
+				<target>Zielseite nach Anmeldung</target>
+			</trans-unit>
+			<trans-unit id="newAccount.submit">
+				<source>Login</source>
+				<target>Anmelden</target>
+			</trans-unit>
+			<trans-unit id="newAccount.errorMessage">
+				<source>Validation of form data failed. Please correct the marked fields and try to login again.</source>
+				<target>Die Überprüfung Ihrer Daten ist fehlgeschlagen. Bitte korrigieren Sie die markierten Felder und versuchen Sie es erneut.</target>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
