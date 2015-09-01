@@ -31,6 +31,39 @@
 			<trans-unit id="newAccount.errorMessage">
 				<source>Validation of form data failed. Please correct the marked fields and try to login again.</source>
 			</trans-unit>
+			<trans-unit id="labels.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="labels.first_name">
+				<source>First name</source>
+			</trans-unit>
+			<trans-unit id="labels.middle_name">
+				<source>Middle name</source>
+			</trans-unit>
+			<trans-unit id="labels.last_name">
+				<source>Last name</source>
+			</trans-unit>
+			<trans-unit id="labels.company">
+				<source>Company</source>
+			</trans-unit>
+			<trans-unit id="labels.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="labels.zip">
+				<source>Postal code</source>
+			</trans-unit>
+			<trans-unit id="labels.city">
+				<source>City</source>
+			</trans-unit>
+			<trans-unit id="labels.phone">
+				<source>Phone</source>
+			</trans-unit>
+			<trans-unit id="labels.email">
+				<source>E-mail</source>
+			</trans-unit>
+			<trans-unit id="labels.www">
+				<source>Website</source>
+			</trans-unit>
 
 		</body>
 	</file>

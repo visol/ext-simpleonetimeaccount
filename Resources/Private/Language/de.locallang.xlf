@@ -40,7 +40,50 @@
 				<source>Validation of form data failed. Please correct the marked fields and try to login again.</source>
 				<target>Die Überprüfung Ihrer Daten ist fehlgeschlagen. Bitte korrigieren Sie die markierten Felder und versuchen Sie es erneut.</target>
 			</trans-unit>
-
+			<trans-unit id="labels.title">
+				<source>Title</source>
+				<target>Titel</target>
+			</trans-unit>
+			<trans-unit id="labels.first_name">
+				<source>First name</source>
+				<target>Vorname</target>
+			</trans-unit>
+			<trans-unit id="labels.middle_name">
+				<source>Middle name</source>
+				<target>Mittlerer Name</target>
+			</trans-unit>
+			<trans-unit id="labels.last_name">
+				<source>Last name</source>
+				<target>Nachname</target>
+			</trans-unit>
+			<trans-unit id="labels.company">
+				<source>Company</source>
+				<target>Organisation</target>
+			</trans-unit>
+			<trans-unit id="labels.address">
+				<source>Address</source>
+				<target>Adresse</target>
+			</trans-unit>
+			<trans-unit id="labels.zip">
+				<source>Postal code</source>
+				<target>PLZ</target>
+			</trans-unit>
+			<trans-unit id="labels.city">
+				<source>City</source>
+				<target>Ort</target>
+			</trans-unit>
+			<trans-unit id="labels.phone">
+				<source>Phone</source>
+				<target>Telefon</target>
+			</trans-unit>
+			<trans-unit id="labels.email">
+				<source>E-mail</source>
+				<target>E-Mail</target>
+			</trans-unit>
+			<trans-unit id="labels.www">
+				<source>Website</source>
+				<target>Website</target>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>

@@ -33,26 +33,30 @@
 										<numIndex index="1">last_name</numIndex>
 									</numIndex>
 									<numIndex index="5" type="array">
+										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.company</numIndex>
+										<numIndex index="1">company</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.address</numIndex>
 										<numIndex index="1">address</numIndex>
 									</numIndex>
-									<numIndex index="6" type="array">
+									<numIndex index="7" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.zip</numIndex>
 										<numIndex index="1">zip</numIndex>
 									</numIndex>
-									<numIndex index="7" type="array">
+									<numIndex index="8" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.city</numIndex>
 										<numIndex index="1">city</numIndex>
 									</numIndex>
-									<numIndex index="8" type="array">
+									<numIndex index="9" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.phone</numIndex>
 										<numIndex index="1">phone</numIndex>
 									</numIndex>
-									<numIndex index="9" type="array">
+									<numIndex index="10" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.email</numIndex>
 										<numIndex index="1">email</numIndex>
 									</numIndex>
-									<numIndex index="10" type="array">
+									<numIndex index="11" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.www</numIndex>
 										<numIndex index="1">www</numIndex>
 									</numIndex>
@@ -86,26 +90,30 @@
 										<numIndex index="1">last_name</numIndex>
 									</numIndex>
 									<numIndex index="5" type="array">
+										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.company</numIndex>
+										<numIndex index="1">company</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.address</numIndex>
 										<numIndex index="1">address</numIndex>
 									</numIndex>
-									<numIndex index="6" type="array">
+									<numIndex index="7" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.zip</numIndex>
 										<numIndex index="1">zip</numIndex>
 									</numIndex>
-									<numIndex index="7" type="array">
+									<numIndex index="8" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.city</numIndex>
 										<numIndex index="1">city</numIndex>
 									</numIndex>
-									<numIndex index="8" type="array">
+									<numIndex index="9" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.phone</numIndex>
 										<numIndex index="1">phone</numIndex>
 									</numIndex>
-									<numIndex index="9" type="array">
+									<numIndex index="10" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.email</numIndex>
 										<numIndex index="1">email</numIndex>
 									</numIndex>
-									<numIndex index="10" type="array">
+									<numIndex index="11" type="array">
 										<numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.www</numIndex>
 										<numIndex index="1">www</numIndex>
 									</numIndex>
