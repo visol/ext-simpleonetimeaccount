@@ -1,0 +1,8 @@
+{
+	"name": "visol/simpleonetimeaccount",
+	"type": "typo3-cms-extension",
+	"description": "Simple One-time FE account",
+	"homepage": "https://github.com/visol/ext-simpleonetimeaccount",
+	"license": ["GPL-2.0+"],
+	"version": "1.0.0"
+}
